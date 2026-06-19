@@ -8,7 +8,7 @@ A modern and responsive Personal Portfolio Website built using HTML and CSS. Thi
 
 ---
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 The Personal Portfolio Website is designed to establish a professional online presence and showcase personal achievements, technical skills, projects, and career objectives.
 
@@ -16,8 +16,7 @@ The website follows a clean and responsive design approach, making it accessible
 
 ---
 
-## ✨ Features
-
+### ✨ Features
 - Professional Portfolio Layout
 - Responsive Design for All Devices
 - About Me Section
@@ -30,7 +29,7 @@ The website follows a clean and responsive design approach, making it accessible
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### Frontend
 - HTML5
@@ -46,7 +45,6 @@ The website follows a clean and responsive design approach, making it accessible
 ---
 
 ## 📂 Project Structure
-
 ```bash
 Portfolio/
 │
@@ -57,7 +55,7 @@ Portfolio/
 └── README.md
 ```
 ---
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Build a professional online portfolio
 - Demonstrate frontend development skills
@@ -78,7 +76,7 @@ This project helped in understanding:
 - Git & GitHub Workflow
 ---
 
-## 🌟 Key Highlights
+### 🌟 Key Highlights
 - Fully Responsive Design
 - Clean and Professional Interface
 - Recruiter-Friendly Portfolio Structure
@@ -97,7 +95,7 @@ This project helped in understanding:
 - Add Social Media Integration
 ---
 
-## 👩‍💻 Author
+### 👩‍💻 Author
 - **Kaveri Dubey**
 - **Python Developer**
 
