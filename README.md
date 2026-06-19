@@ -101,6 +101,5 @@ This project helped in understanding:
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+### ⭐ Support
+- If you found this project helpful, consider giving it a ⭐ on GitHub.
